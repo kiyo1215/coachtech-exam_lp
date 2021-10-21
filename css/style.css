@@ -42,7 +42,9 @@ header a {
 }
 
 .firstview-text {
-  transform: translate(200px, 80px);
+  position: absolute;
+  top: 80px;
+  left: 200px;
 }
 
 .firstview-text h1 {
